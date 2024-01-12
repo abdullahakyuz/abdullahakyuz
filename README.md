@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Abdullah AKYÜZ</h1>
-<h3 align="center">An enthusiastic Turkish Computer Engineering student and Cloud & Devops Engineer</h3>
+<h3 align="center">An enthusiastic Turkish Cloud & Jr. Devops Engineer</h3>
 
 - 🌱 I have experience **AWS,,Terraform,Ansible,Docker,Kubernetes,Jenkins,Azure DevOps,Nexus Artifact,Maven,Promethus,Grafana**
 
