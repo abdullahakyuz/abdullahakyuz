@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Abdullah AKYÜZ</h1>
 <h3 align="center">An enthusiastic Turkish Cloud & Jr. Devops Engineer</h3>
 
-- 🌱 I have experience **AWS,Terraform,Ansible,Docker,Kubernetes,Jenkins,Azure DevOps,Nexus Artifact,Maven,Promethus,Grafana** <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+- 🌱 I have experience **AWS,Terraform,Ansible,Docker,Kubernetes,Jenkins,Azure DevOps,Nexus Artifact,Maven,Promethus,Grafana** <p align="left"> <a href="May the force be with you" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
 - 📫 How to reach me **abdullah.akyuz90@gmail.com**
 
