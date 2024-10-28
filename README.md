@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Abdullah AKYÜZ</h1>
 <h3 align="center">An enthusiastic Turkish Cloud & Jr. Devops Engineer</h3>
 
-- 🌱 I have experience **AWS,Terraform,Ansible,Docker,Kubernetes,Jenkins,Azure DevOps,Nexus Artifact,Maven,Promethus,Grafana** <p align="left"> <a href="May the force be with you" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/disneyemojiblitz/images/2/2f/EmojiBlitzDarthVader-Unhappy.png/revision/latest?cb=20230616132138" alt="May the force be with you" width="40" height="40"/> </a>
+- 🌱 I have experience **AWS,Terraform,Ansible,Docker,Kubernetes,Jenkins,Azure DevOps,Nexus Artifact,Maven,Promethus,Grafana** <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
 - 📫 How to reach me **abdullah.akyuz90@gmail.com**
 
