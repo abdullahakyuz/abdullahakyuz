@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Abdullah AKYÜZ</h1>
 <h3 align="center">An enthusiastic Turkish Cloud & Jr. Devops Engineer</h3>
 
-- 🌱 I have experience **AWS,Terraform,Ansible,Docker,Kubernetes,Jenkins,Azure DevOps,Nexus Artifact,Maven,Promethus,Grafana** <a target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/disneyemojiblitz/images/2/2f/EmojiBlitzDarthVader-Unhappy.png/revision/latest?cb=20230616132138" alt="Join the Darkside" width="40" height="40"/> </a>
+- 🌱 I have experience **AWS,Terraform,Ansible,Docker,Kubernetes,Jenkins,Azure DevOps,Nexus Artifact,Maven,Promethus,Grafana**
 
-- 📫 How to reach me **abdullah.akyuz90@gmail.com**
+- 📫 How to reach me **abdullah.akyuz90@gmail.com** <a target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/disneyemojiblitz/images/2/2f/EmojiBlitzDarthVader-Unhappy.png/revision/latest?cb=20230616132138" alt="Join the Darkside" width="40" height="40"/> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
