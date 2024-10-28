@@ -4,7 +4,6 @@
 - 🌱 I have experience **AWS,Terraform,Ansible,Docker,Kubernetes,Jenkins,Azure DevOps,Nexus Artifact,Maven,Promethus,Grafana**
 
 - 📫 How to reach me **abdullah.akyuz90@gmail.com** <a target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/disneyemojiblitz/images/2/2f/EmojiBlitzDarthVader-Unhappy.png/revision/latest?cb=20230616132138" alt="Join the Darkside" width="40" height="40"/> </a>
-<iframe src="https://giphy.com/embed/qRhXEKCDQxfVu" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yoda-star-wars-may-4th-qRhXEKCDQxfVu">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
